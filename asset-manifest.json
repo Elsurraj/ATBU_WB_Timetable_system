@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f69ab4e.css",
-    "main.js": "/static/js/main.390e7f9c.js",
-    "static/media/remixicon.svg?t=1718271040674": "/static/media/remixicon.f38690bdde29bddbc211.svg",
-    "static/media/remixicon.eot?t=1718271040674": "/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
-    "static/media/remixicon.ttf?t=1718271040674": "/static/media/remixicon.88da6179288d7835c2f0.ttf",
-    "static/media/remixicon.woff?t=1718271040674": "/static/media/remixicon.1bdc36c90398c9d667d1.woff",
-    "static/media/remixicon.woff2?t=1718271040674": "/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
-    "static/media/logo.jpg": "/static/media/logo.3d8da0fd671c4e4ad076.jpg",
-    "static/media/hero4.jpeg": "/static/media/hero4.df1b951ba7715a968ebb.jpeg",
-    "static/media/hero.jpg": "/static/media/hero.3c3a920a200986d961c0.jpg",
-    "index.html": "/index.html",
-    "main.4f69ab4e.css.map": "/static/css/main.4f69ab4e.css.map",
-    "main.390e7f9c.js.map": "/static/js/main.390e7f9c.js.map"
+    "main.css": "/ATBU_WB_Timetable_system/static/css/main.538ca647.css",
+    "main.js": "/ATBU_WB_Timetable_system/static/js/main.516fd86d.js",
+    "static/media/remixicon.svg?t=1718271040674": "/ATBU_WB_Timetable_system/static/media/remixicon.f38690bdde29bddbc211.svg",
+    "static/media/remixicon.eot?t=1718271040674": "/ATBU_WB_Timetable_system/static/media/remixicon.d87042cf9a3f67d1cab2.eot",
+    "static/media/remixicon.ttf?t=1718271040674": "/ATBU_WB_Timetable_system/static/media/remixicon.88da6179288d7835c2f0.ttf",
+    "static/media/remixicon.woff?t=1718271040674": "/ATBU_WB_Timetable_system/static/media/remixicon.1bdc36c90398c9d667d1.woff",
+    "static/media/remixicon.woff2?t=1718271040674": "/ATBU_WB_Timetable_system/static/media/remixicon.8aece9ab0de67b79cfda.woff2",
+    "static/media/logo.jpg": "/ATBU_WB_Timetable_system/static/media/logo.3d8da0fd671c4e4ad076.jpg",
+    "static/media/hero4.jpeg": "/ATBU_WB_Timetable_system/static/media/hero4.df1b951ba7715a968ebb.jpeg",
+    "static/media/hero.jpg": "/ATBU_WB_Timetable_system/static/media/hero.3c3a920a200986d961c0.jpg",
+    "index.html": "/ATBU_WB_Timetable_system/index.html",
+    "main.538ca647.css.map": "/ATBU_WB_Timetable_system/static/css/main.538ca647.css.map",
+    "main.516fd86d.js.map": "/ATBU_WB_Timetable_system/static/js/main.516fd86d.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f69ab4e.css",
-    "static/js/main.390e7f9c.js"
+    "static/css/main.538ca647.css",
+    "static/js/main.516fd86d.js"
   ]
 }
